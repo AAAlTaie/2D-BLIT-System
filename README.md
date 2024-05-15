@@ -1,7 +1,11 @@
-2D BLIT System
+2D BLIT System :
+
 Welcome to the 2D BLIT system repository! This project provides a straightforward yet powerful framework for rendering images and animations in a 2D environment using C++.
 
-Key Features
+
+
+Key Features :
+
 Pixel Drawing Functionality: Begin by setting up the rendering loop and drawing individual pixels in contrasting colors to ensure correct rendering and positioning.
 
 Tile Rendering and BLIT Functionality: Expand upon pixel drawing by implementing the ability to draw tiles, or square sets of pixels, using a BLIT (BitBLT) approach to efficiently copy image data.
